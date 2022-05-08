@@ -1,0 +1,46 @@
+body {
+    color: #4D4C7D;
+}
+
+button {
+    margin: 0 0 1%;
+}
+
+h1 {
+    padding: 3% 0;
+}
+
+.card {
+    color: #363062;
+    margin: 5% 2%;
+}
+
+.cart-img {
+    width: 100px;
+}
+
+
+.container {
+    padding: 3% 15% 5%;
+}
+
+.light-section {
+    background-color: #E9D5DA;
+}
+
+.navbar {
+    background-color: #363062;
+    color: #E9D5DA;
+}
+
+.navbar-toggler {
+    background-color: #E9D5DA;
+}
+
+.nav-text-color {
+    color: #E9D5DA;
+}
+
+.product-thumb {
+    width: 100%;
+}
